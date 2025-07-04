@@ -19,7 +19,7 @@ A visually interactive 3D solar system simulation using Three.js, complete with 
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* [Three.js](https://threejs.org/) for 3D rendering
+* Three.js for 3D rendering
 
 ---
 
