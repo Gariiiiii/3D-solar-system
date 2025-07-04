@@ -65,7 +65,7 @@ A visually interactive 3D solar system simulation using Three.js, complete with 
 
 ---
 
-## 📂 Resources Used
+## Resources Used
 
 * [Three.js Documentation](https://threejs.org/docs/)
 * [Font Awesome Icons](https://fontawesome.com/icons)
