@@ -14,7 +14,7 @@ A visually interactive 3D solar system simulation using Three.js, complete with 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -23,9 +23,9 @@ A visually interactive 3D solar system simulation using Three.js, complete with 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 📁 Folder Structure
+### Folder Structure
 
 ```
 3d-solar-system/
@@ -34,30 +34,30 @@ A visually interactive 3D solar system simulation using Three.js, complete with 
 ├── main.js
 ```
 
-### 🔧 Requirements
+### Requirements
 
 * A modern web browser (Chrome, Firefox, Edge, etc.)
 * No server needed. It runs completely on the client side.
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
-### ✅ Option 1: Open with Live Server (VS Code Recommended)
+### Option 1: Open with Live Server (VS Code Recommended)
 
 1. Open the project folder in VS Code.
 2. Install the **Live Server** extension if not already installed.
 3. Right-click `index.html` → **"Open with Live Server"**.
 4. Your 3D Solar System will open in the browser.
 
-### ✅ Option 2: Open Manually in Browser
+### Option 2: Open Manually in Browser
 
 1. Locate the `index.html` file in the project folder.
 2. Double-click to open it in your browser.
 
 ---
 
-## 🎮 Controls
+## Controls
 
 * **Dark/Light Mode**: Toggle top-right theme switch.
 * **Pause/Resume**: Toggle top-right animation switch.
